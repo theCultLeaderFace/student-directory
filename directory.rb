@@ -1,3 +1,4 @@
+student_count = 25
 puts "Dave"
 puts "Eddie"
 puts "Catharina"
@@ -25,5 +26,5 @@ puts "Alex"
 puts "Jeremy"
 
 print "Overall, we have "
-print 9
+print student_count
 puts " great students" 
