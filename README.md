@@ -9,3 +9,5 @@ The student directory script allows zou to manage the list of students enrolled 
 ```shell
 ruby directory.rb
 ```
+
+somthign else
